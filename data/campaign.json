@@ -1,0 +1,401 @@
+{
+  "schema_version": "0.1",
+  "project": "HolmesNet Expedition",
+  "prepared_date": "2026-10-17",
+  "game": "Bobiverse: Replicant Too",
+  "game_url": "https://replicate.anek.online",
+  "update_method": "manual evidence snapshots",
+  "latest_checkpoint": "2184-02-20",
+  "global_snapshot": {
+    "date": "2184-02-20",
+    "source": "87",
+    "operating_systems": 4,
+    "replicants": 6,
+    "roamers": 77,
+    "stored_ore": 653992,
+    "stored_parts": 80095,
+    "total_freighters": 24,
+    "flights": 9,
+    "contribution": 4504,
+    "standing": "Trusted",
+    "helped": 10,
+    "requests_total": 16
+  },
+  "systems": [
+    {
+      "name": "Epsilon Eridani",
+      "status": "operating",
+      "snapshot_date": "2184-01-20",
+      "source": "86",
+      "stored_parts": 3943,
+      "stored_ore": 275960,
+      "refineries": 47,
+      "roamers": 34,
+      "ready_freighters": 10,
+      "placed_outposts": 3,
+      "mass_driver": true,
+      "ami_manager": true,
+      "scut_relay": true,
+      "survey": "Oort complete"
+    },
+    {
+      "name": "Tau Ceti",
+      "status": "operating",
+      "snapshot_date": "2184-01-20",
+      "source": "86",
+      "stored_parts": 18648,
+      "stored_ore": 88273,
+      "refineries": 28,
+      "roamers": 18,
+      "ready_freighters": null,
+      "placed_outposts": 3,
+      "mass_driver": true,
+      "ami_manager": true,
+      "scut_relay": true,
+      "survey": "Oort complete"
+    },
+    {
+      "name": "Sol",
+      "status": "operating",
+      "snapshot_date": "2184-01-20",
+      "source": "86",
+      "stored_parts": 36122,
+      "stored_ore": 144917,
+      "refineries": 24,
+      "roamers": 9,
+      "ready_freighters": 1,
+      "placed_outposts": 3,
+      "mass_driver": true,
+      "ami_manager": true,
+      "scut_relay": true,
+      "survey": "Oort complete"
+    },
+    {
+      "name": "Alpha Centauri",
+      "status": "operating",
+      "snapshot_date": "2184-01-20",
+      "source": "86",
+      "stored_parts": 19467,
+      "stored_ore": 138780,
+      "refineries": 15,
+      "roamers": 16,
+      "ready_freighters": 4,
+      "placed_outposts": 3,
+      "mass_driver": true,
+      "ami_manager": true,
+      "scut_relay": true,
+      "survey": "Oort complete"
+    }
+  ],
+  "replicants": [
+    {
+      "name": "Holmes",
+      "type": "Builder",
+      "group": "HOME-COMMAND",
+      "system": "Epsilon Eridani",
+      "hold_parts": 50,
+      "assignment_confirmed_through": "2184-02-20",
+      "hold_observed_date": "2174-08-09",
+      "hold_source": "84",
+      "assignment_source": "87",
+      "hold_capacity": 50
+    },
+    {
+      "name": "Mary",
+      "type": "Refiner",
+      "group": "HOME-INDUSTRY",
+      "system": "Epsilon Eridani",
+      "hold_parts": 50,
+      "assignment_confirmed_through": "2184-02-20",
+      "hold_observed_date": "2174-08-09",
+      "hold_source": "84",
+      "assignment_source": "87",
+      "hold_capacity": 50
+    },
+    {
+      "name": "Banneker",
+      "type": "Surveyor",
+      "group": "SEED-01",
+      "system": "Tau Ceti",
+      "hold_parts": 0,
+      "assignment_confirmed_through": "2184-02-20",
+      "hold_observed_date": "2174-08-09",
+      "hold_source": "84",
+      "assignment_source": "87",
+      "hold_capacity": 50
+    },
+    {
+      "name": "Katherine",
+      "type": "Builder",
+      "group": "SEED-01",
+      "system": "Tau Ceti",
+      "hold_parts": 0,
+      "assignment_confirmed_through": "2184-02-20",
+      "hold_observed_date": "2174-08-09",
+      "hold_source": "84",
+      "assignment_source": "87",
+      "hold_capacity": 50
+    },
+    {
+      "name": "Octavia",
+      "type": "Bob helper",
+      "group": "BOB-SUPPORT",
+      "system": "Sol",
+      "hold_parts": 21,
+      "assignment_confirmed_through": "2184-02-20",
+      "hold_observed_date": "2174-08-09",
+      "hold_source": "84",
+      "assignment_source": "87",
+      "hold_capacity": 50
+    },
+    {
+      "name": "Mae",
+      "type": "Bob helper",
+      "group": "BOB-SUPPORT",
+      "system": "Alpha Centauri",
+      "hold_parts": 0,
+      "assignment_confirmed_through": "2184-02-20",
+      "hold_observed_date": "2174-08-09",
+      "hold_source": "84",
+      "assignment_source": "87",
+      "hold_capacity": 50
+    }
+  ],
+  "flights": [
+    {
+      "id": "freight-snapshot-87-01",
+      "origin": "Epsilon Eridani",
+      "destination": "Alpha Centauri",
+      "cargo_parts": 30,
+      "remaining_years": 5.5,
+      "status": "in_transit",
+      "snapshot_date": "2184-02-20",
+      "source": "87"
+    },
+    {
+      "id": "freight-snapshot-87-02",
+      "origin": "Sol",
+      "destination": "Epsilon Eridani",
+      "cargo_parts": 50,
+      "remaining_years": 8.3,
+      "status": "in_transit",
+      "snapshot_date": "2184-02-20",
+      "source": "87"
+    },
+    {
+      "id": "freight-snapshot-87-03",
+      "origin": "Sol",
+      "destination": "Epsilon Eridani",
+      "cargo_parts": 20,
+      "remaining_years": 8.3,
+      "status": "in_transit",
+      "snapshot_date": "2184-02-20",
+      "source": "87"
+    },
+    {
+      "id": "freight-snapshot-87-04",
+      "origin": "Sol",
+      "destination": "Epsilon Eridani",
+      "cargo_parts": 20,
+      "remaining_years": 10.0,
+      "status": "in_transit",
+      "snapshot_date": "2184-02-20",
+      "source": "87"
+    },
+    {
+      "id": "freight-snapshot-87-05",
+      "origin": "Epsilon Eridani",
+      "destination": "Delta Eridani",
+      "cargo_parts": 30,
+      "remaining_years": 20.3,
+      "status": "in_transit",
+      "snapshot_date": "2184-02-20",
+      "source": "87"
+    },
+    {
+      "id": "freight-snapshot-87-06",
+      "origin": "Epsilon Eridani",
+      "destination": "Delta Eridani",
+      "cargo_parts": 30,
+      "remaining_years": 25.9,
+      "status": "in_transit",
+      "snapshot_date": "2184-02-20",
+      "source": "87"
+    },
+    {
+      "id": "freight-snapshot-87-07",
+      "origin": "Epsilon Eridani",
+      "destination": "Gliese 54",
+      "cargo_parts": 25,
+      "remaining_years": 35.1,
+      "status": "in_transit",
+      "snapshot_date": "2184-02-20",
+      "source": "87"
+    },
+    {
+      "id": "freight-snapshot-87-08",
+      "origin": "Sol",
+      "destination": "Delta Eridani",
+      "cargo_parts": 30,
+      "remaining_years": 40.6,
+      "status": "in_transit",
+      "snapshot_date": "2184-02-20",
+      "source": "87"
+    },
+    {
+      "id": "freight-snapshot-87-09",
+      "origin": "Alpha Centauri",
+      "destination": "Delta Eridani",
+      "cargo_parts": 30,
+      "remaining_years": 43.8,
+      "status": "in_transit",
+      "snapshot_date": "2184-02-20",
+      "source": "87"
+    }
+  ],
+  "future_missions": [
+    {
+      "id": "BEAM-DELTA-01",
+      "destination": "Delta Eridani",
+      "status": "planned_deferred",
+      "timing": "another gameplay session; no scheduled date",
+      "beam_available": "player_reported",
+      "availability_source": "Jason, 2026-10-17",
+      "replicant_name": null,
+      "replicant_type": null,
+      "origin": null,
+      "quoted_parts": null,
+      "quoted_days": null,
+      "objective": "Beam a resident; document starter equipment, begin survey/mining and assess local support.",
+      "player_factory_observed": false
+    },
+    {
+      "id": "BEAM-GL54-01",
+      "destination": "Gliese 54",
+      "status": "planned_deferred",
+      "timing": "another gameplay session; no scheduled date",
+      "beam_available": "player_reported",
+      "availability_source": "Jason, 2026-10-17",
+      "replicant_name": null,
+      "replicant_type": null,
+      "origin": null,
+      "quoted_parts": null,
+      "quoted_days": null,
+      "objective": "Beam a resident; document starter equipment, begin survey/mining and assess local support.",
+      "player_factory_observed": false
+    }
+  ],
+  "evidence": {
+    "77": {
+      "filename": "77_in_flight.jpg",
+      "game_date": "2173-05-28"
+    },
+    "83": {
+      "filename": "83_Stars.jpg",
+      "game_date": "2174-07-10"
+    },
+    "85": {
+      "filename": "85_In flight.jpg",
+      "game_date": "2174-08-31"
+    },
+    "86": {
+      "filename": "86_stars.jpg",
+      "game_date": "2184-01-20"
+    },
+    "87": {
+      "filename": "87_In flight.jpg",
+      "game_date": "2184-02-20"
+    },
+    "84": {
+      "filename": "84_replicants.jpg",
+      "game_date": "2174-08-09"
+    },
+    "82": {
+      "filename": "82_Tau Ceti.jpg",
+      "game_date": "2174-06-14"
+    },
+    "81": {
+      "filename": "81_Galaxy Map.jpg",
+      "game_date": null,
+      "note": "2174-era sequence; date not visible in map"
+    },
+    "71": {
+      "filename": "71_alpha_centauri_starting_stock.jpg",
+      "game_date": "2171-02-04"
+    },
+    "64": {
+      "filename": "64_mass_driver_online.jpg",
+      "game_date": "2164-09-26"
+    }
+  },
+  "limitations": [
+    "System stock is dated January 20; global stock is February 20. Do not reconcile different dates as one snapshot.",
+    "Hold values are from August 9, 2174, not current 2184 cargo.",
+    "Map coordinates are not established; use a labelled schematic rather than invented astronomical coordinates.",
+    "No automated game synchronization or live AI integration.",
+    "No beam quote for Alpha Centauri or future destinations.",
+    "Exact Tau Ceti arrival dates and physical starter package unknown."
+  ],
+  "timeline": [
+    {
+      "date": "2152-07-29",
+      "event": "Paused campaign baseline at Epsilon Eridani",
+      "evidence": "01_campaign_baseline.jpg"
+    },
+    {
+      "date": "2158-08-10",
+      "event": "Octavia beam started toward Sol",
+      "evidence": "51_sol_replicant_online.jpg"
+    },
+    {
+      "date": "2158-08-18",
+      "event": "Octavia arrival; factory and roamer established at Sol",
+      "evidence": "51_sol_replicant_online.jpg"
+    },
+    {
+      "date": "2162-08-19",
+      "event": "Banneker departs home for Tau Ceti",
+      "evidence": "60_seed01_in_flight.jpg"
+    },
+    {
+      "date": "2162-09-23",
+      "event": "Katherine departs home for Tau Ceti",
+      "evidence": "60_seed01_in_flight.jpg"
+    },
+    {
+      "date": "2164-01-12",
+      "event": "Tutorial completion message",
+      "evidence": "63_Todo Done.jpg"
+    },
+    {
+      "date": "2164-09-26",
+      "event": "Home mass driver observed operating",
+      "source": "64",
+      "date_kind": "observed_by"
+    },
+    {
+      "date": "2170-12-18",
+      "event": "Mae observed online at Alpha Centauri",
+      "evidence": "70_mae_alpha_centauri_online.jpg",
+      "date_kind": "observed_by"
+    },
+    {
+      "date": "2174-06-14",
+      "event": "Both seeds and operating infrastructure observed at Tau Ceti",
+      "source": "82",
+      "date_kind": "observed_by"
+    },
+    {
+      "date": "2174-07-10",
+      "event": "Tau Ceti Oort survey completion logged",
+      "source": "83"
+    },
+    {
+      "date": "2184-02-20",
+      "event": "Latest four-system checkpoint",
+      "source": "87"
+    }
+  ],
+  "article_url": "https://x.com/jasonvonholmes/status/2111452094502977841",
+  "article_status": "Published October 17, 2026; confirmed by Jason"
+}

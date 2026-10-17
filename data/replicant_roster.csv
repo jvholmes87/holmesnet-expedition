@@ -1,0 +1,7 @@
+name,type,group,system,hold_parts,assignment_confirmed_through,hold_observed_date,hold_source,assignment_source,hold_capacity
+Holmes,Builder,HOME-COMMAND,Epsilon Eridani,50,2184-02-20,2174-08-09,84,87,50
+Mary,Refiner,HOME-INDUSTRY,Epsilon Eridani,50,2184-02-20,2174-08-09,84,87,50
+Banneker,Surveyor,SEED-01,Tau Ceti,0,2184-02-20,2174-08-09,84,87,50
+Katherine,Builder,SEED-01,Tau Ceti,0,2184-02-20,2174-08-09,84,87,50
+Octavia,Bob helper,BOB-SUPPORT,Sol,21,2184-02-20,2174-08-09,84,87,50
+Mae,Bob helper,BOB-SUPPORT,Alpha Centauri,0,2184-02-20,2174-08-09,84,87,50
