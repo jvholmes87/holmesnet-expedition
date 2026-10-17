@@ -38,6 +38,8 @@ Future missions **BEAM-DELTA-01** and **BEAM-GL54-01** are deferred to another g
 ## Credits
 
 
-Game: **Bobiverse: Replicant Too**, by its developer and contributors. The Bobiverse setting and characters belong to their respective rights holders. This project is independent and has no claimed endorsement.
+**Bobiverse: Replicant Too was created by [u/damiankw](https://www.reddit.com/user/damiankw/).** [Play his game](https://replicate.anek.online) and read his [original introduction](https://www.reddit.com/r/bobiverse/comments/1wx75mh/bobiverse_replicant_too_an_interactive_game_based/). The Bobiverse books and setting were created by **Dennis E. Taylor**.
+
+HolmesNet is an independent player-made campaign companion. Our aim is to help more people discover the game, give players a documented expedition to follow, and provide useful gameplay observations and constructive feedback to its creator. This project has no claimed endorsement.
 
 The avatar and banner were created for Songtan Labs / HolmesNet using OpenAI image generation.
