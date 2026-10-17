@@ -4,7 +4,7 @@
 
 ![Songtan Labs — HolmesNet Expedition](assets/banner.jpg)
 
-**[Read Expedition 001 on X](https://x.com/jasonvonholmes/status/2111452094502977841)** · [Campaign instructions](docs/first-expedition.md) · [Evidence and limitations](docs/evidence.md) · [Campaign JSON](data/campaign.json)
+**[Open the interactive companion](https://jvholmes87.github.io/holmesnet-expedition/)** · **[Read Expedition 001 on X](https://x.com/jasonvonholmes/status/2111452094502977841)** · [Campaign instructions](docs/first-expedition.md) · [Evidence and limitations](docs/evidence.md) · [Campaign JSON](data/campaign.json)
 
 Created by **Jason Von Holmes / Songtan Labs**. This project connects 15 years of Air Force engineering experience, a computer science degree and graduate IT studies with a systems engineering focus: plan, observe, document and improve.
 
