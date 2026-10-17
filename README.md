@@ -18,7 +18,7 @@ Created by **Jason Von Holmes / Songtan Labs**. This project connects 15 years o
 - Explore a dated campaign timeline and prepared MAAT briefings.
 - Download the campaign JSON and roster CSV.
 
-Static HTML/CSS/JavaScript. No package installation, build step, API key or account is needed to run it. All assets load locally. This is a manual campaign snapshot; it does not control or synchronize with the game. The map is a labelled schematic, not an astronomical coordinate plot or SCUT range calculation. Personal VIRT is deferred.
+The companion presents dated campaign snapshots, with a schematic map, local inventories and mission history.
 
 ## Current campaign checkpoint
 
@@ -35,35 +35,9 @@ System inventories are dated **January 20, 2184**, one month earlier than the gl
 
 Future missions **BEAM-DELTA-01** and **BEAM-GL54-01** are deferred to another gameplay session. Jason reports that beaming to Delta Eridani and Gliese 54 is available; resident choices and current quotes remain pending. Neither destination is counted as an operating player system.
 
-## Run locally
+## Credits
 
-From this folder:
-
-```bash
-python3 -m http.server 8000
-```
-
-Open `http://localhost:8000`. Use a local server because the app loads its JSON with `fetch`.
-
-## Publish on GitHub Pages
-
-1. Place `index.html`, `styles.css`, `app.js`, `.nojekyll`, and the `assets`, `data`, and `docs` directories at the repository root.
-2. In **Settings → Pages**, choose **Deploy from a branch**.
-3. Choose the **main** branch and **/(root)**, then save.
-4. Wait for the Pages deployment to finish and use the actual URL shown by GitHub.
-
-Reference: GitHub. (n.d.). *[Configuring a publishing source for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).* No live Pages URL is claimed until deployment is verified.
-
-## Update the campaign
-
-Edit `data/campaign.json`, keeping dates and evidence sources with each snapshot. Update `data/replicant_roster.csv` when roster observations change. Keep planned work distinct from completed actions. Do not reinterpret a request's dispatch credit as physical cargo delivery.
-
-## Credits and reuse
 
 Game: **Bobiverse: Replicant Too**, by its developer and contributors. The Bobiverse setting and characters belong to their respective rights holders. This project is independent and has no claimed endorsement.
 
-The avatar and banner were generated for Jason's Songtan Labs / HolmesNet identity with OpenAI image generation. This repository does not include game source code or a licensed game-asset pack. The app uses browser APIs and system fonts without external runtime libraries. No blanket license is applied to game content or screenshots. Reuse terms for the original project code remain to be selected by the owner.
-
-## Verification
-
-JavaScript syntax, campaign schema/counts, relative file references, route switching, system selection, roster filtering, logistics sorting and prepared-briefing toggle were checked during source preparation. Real phone rendering and live Pages deployment still require verification after hosting.
+The avatar and banner were created for Songtan Labs / HolmesNet using OpenAI image generation.
