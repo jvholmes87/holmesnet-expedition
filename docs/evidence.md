@@ -1,6 +1,6 @@
 # Evidence and limitations
 
-Campaign records were prepared from Jason's dated gameplay screenshots and clarifications. Original screenshots are retained in the working archive; this first source release includes filenames and dates rather than publishing the entire private archive. The [published X article](https://x.com/jasonvonholmes/status/2111452094502977841) contains the first public illustrated campaign account.
+Campaign records are based on dated gameplay screenshots and observations from Jason's playthrough. The [published X article](https://x.com/jasonvonholmes/status/2111452094502977841) contains the first public illustrated campaign account.
 
 | Observation | Evidence | Game date |
 |---|---|---|
@@ -26,15 +26,6 @@ Campaign records were prepared from Jason's dated gameplay screenshots and clari
 - Request credit can occur on dispatch. Physical delivery must be separately verified.
 - No deployed state is inferred from an open confirmation dialog.
 
-## Open questions
-
-1. Exact Alpha beam cost and arrival date are missing.
-2. Exact immediate equipment on physical arrival at Tau Ceti is missing.
-3. SURGE research's effect on craft already in flight is unverified.
-4. The original 40-part Sol shipment is absent from the latest flight list; an exact arrival date/reward was not captured.
-5. Some older MeNet screenshots show one fewer flight in the tab than the visible rows. Screenshot 87 matches nine rows to nine flights. The historical mismatch has no established reproduction steps or cause.
-6. The mission instructions have not been independently tested by another player.
-
-## Future availability
+## Planned destinations
 
 Jason reports beaming is available to Delta Eridani and Gliese 54. Screenshot 86 confirms destination context and no player factories. Current beam quotes are not captured; names, types and source systems remain undecided. These are deferred plans, not active footholds.
