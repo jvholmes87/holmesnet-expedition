@@ -8,6 +8,18 @@
 
 Created by **Jason Von Holmes / Songtan Labs**. This project connects 15 years of Air Force engineering experience, a computer science degree and graduate IT studies with a systems engineering focus: plan, observe, document and improve.
 
+## VIRT command environment — October 2026
+
+**[Enter the command room](https://holmesnet-virt.rosypeony128.chatgpt.site/)** · **[Explore the stellar atlas](https://holmesnet-virt.rosypeony128.chatgpt.site/systems.html)** · **[Development progress and video](docs/virt-development.md)**
+
+VIRT turns this campaign into a working virtual command environment. The approved warm wood and mountain setting now accompanies a 3D nearby-star atlas, six console-specific operational workspaces, and Map/Analysis views. The aim is to learn through building, testing and documenting, with future applications in engineering and autonomous-system management.
+
+![HolmesNet stellar atlas — October 18 prototype](https://holmesnet-virt.rosypeony128.chatgpt.site/media/stellar-atlas-2026-10-18.png)
+
+*The approved Systems-map prototype, captured October 18. The October 19 v0.6 rollout adds station-specific workspaces and catalog-projected room displays.*
+
+**29 automated checks pass.** Browser/GPU and phone/PC validation remain open. The app uses dated game snapshots; catalog positions do not imply live vessel tracking. [Read capabilities, limitations, credits and see the walkthrough](docs/virt-development.md).
+
 ## V0.1 companion
 
 - Select systems on a keyboard-accessible schematic map.
