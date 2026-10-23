@@ -18,7 +18,9 @@ VIRT turns this campaign into a working virtual command environment. The approve
 
 *The approved Systems-map prototype, captured October 18. The October 19 v0.6 rollout adds station-specific workspaces and catalog-projected room displays.*
 
-**29 automated checks pass.** Browser/GPU and phone/PC validation remain open. The app uses dated game snapshots; catalog positions do not imply live vessel tracking. [Read capabilities, limitations, credits and see the walkthrough](docs/virt-development.md).
+**October 23: GUPPI refinement 02 is live.** The face and uniform have a refinement pass, and the greeting now waves palm-forward, plays once and returns to rest. [Meet GUPPI](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html) · [Watch the greeting](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-review.mp4) · [Explore the textured Sol prototype](https://holmesnet-virt.rosypeony128.chatgpt.site/sol.html).
+
+The selected automated suite passed **30 tests**. Likeness polish, voice/lip-sync, interactive browser/GPU and phone/PC validation remain open. The app uses dated game snapshots; catalog positions do not imply live vessel tracking. [Read capabilities, limitations, credits and see the walkthrough](docs/virt-development.md).
 
 ## V0.1 companion
 
