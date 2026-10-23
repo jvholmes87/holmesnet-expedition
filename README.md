@@ -18,19 +18,19 @@ VIRT turns this campaign into a working virtual command environment. The approve
 
 *The approved Systems-map prototype, captured October 18. The October 19 v0.6 rollout adds station-specific workspaces and catalog-projected room displays.*
 
-**October 23: GUPPI refinement 02 is live.** The face and uniform have a refinement pass, and the greeting now waves palm-forward, plays once and returns to rest. [Meet GUPPI](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html) · [Watch the greeting](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-review.mp4) · [Explore the textured Sol prototype](https://holmesnet-virt.rosypeony128.chatgpt.site/sol.html).
+**October 23: GUPPI refinement 02 is live.** The face and uniform have a refinement pass, and the greeting now waves palm-forward, plays once and returns to rest. [Meet GUPPI](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html) · [Watch the greeting](assets/guppi/greeting-review.mp4) · [Explore the textured Sol prototype](https://holmesnet-virt.rosypeony128.chatgpt.site/sol.html).
 
 ### GUPPI — from approved concept to animated character
 
 | Approved Concept 03 | Current 3D refinement |
 |---|---|
-| <img src="https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/concept-03.png" alt="Approved GUPPI Concept 03 character design" width="420"> | <img src="https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/rig-front.webp" alt="GUPPI refinement 02 full-body model render" width="420"> |
+| <img src="assets/guppi/concept-03.png" alt="Approved GUPPI Concept 03 character design" width="420"> | <img src="assets/guppi/rig-front.png" alt="GUPPI refinement 02 full-body model render" width="420"> |
 
 *Concept 03 is the design target. Refinement 02 is the working 3D model; likeness polish remains underway.*
 
-[![Watch GUPPI's corrected greeting — four-second video](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-poster.png)](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-review.mp4)
+[![Watch GUPPI's corrected greeting — four-second video](assets/guppi/greeting-poster.png)](assets/guppi/greeting-review.mp4)
 
-**[▶ Watch the greeting — 4 seconds (MP4)](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-review.mp4)** · [Open the interactive studio](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html)
+**[▶ Watch the greeting — 4 seconds (MP4)](assets/guppi/greeting-review.mp4)** · [Open the interactive studio](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html)
 
 *Click the preview to play the exported-animation review: raise, palm-forward wave, and return to rest. This is a rendered motion review, not browser gameplay footage.*
 

@@ -6,7 +6,7 @@ Updated October 23, 2026 · Jason Von Holmes / Songtan Labs
 
 ## October 23 update — GUPPI refinement and Sol explorer
 
-**[Meet GUPPI](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html)** · **[Watch the corrected greeting](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-review.mp4)** · **[Explore Sol](https://holmesnet-virt.rosypeony128.chatgpt.site/sol.html)**
+**[Meet GUPPI](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html)** · **[Watch the corrected greeting](../assets/guppi/greeting-review.mp4)** · **[Explore Sol](https://holmesnet-virt.rosypeony128.chatgpt.site/sol.html)**
 
 GUPPI now has an initial animated 3D model based on Quaternius's CC0 Universal Base Characters. Jason approved Concept 03: long curls, warm brown skin, a natural athletic build, and a graphite command uniform with a cream yoke and bronze trim. The approved concept remains the visual target; the 3D likeness is still being refined.
 
@@ -16,13 +16,13 @@ The October 23 refinement softens the face, improves the uniform panel and trim,
 
 | Approved Concept 03 | Current 3D refinement |
 |---|---|
-| <img src="https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/concept-03.png" alt="Approved GUPPI Concept 03 character design" width="420"> | <img src="https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/rig-front.webp" alt="GUPPI refinement 02 full-body model render" width="420"> |
+| <img src="../assets/guppi/concept-03.png" alt="Approved GUPPI Concept 03 character design" width="420"> | <img src="../assets/guppi/rig-front.png" alt="GUPPI refinement 02 full-body model render" width="420"> |
 
 *Concept 03 is the design target. Refinement 02 is the working 3D model; likeness polish remains underway.*
 
-[![Watch GUPPI's corrected greeting — four-second video](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-poster.png)](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-review.mp4)
+[![Watch GUPPI's corrected greeting — four-second video](../assets/guppi/greeting-poster.png)](../assets/guppi/greeting-review.mp4)
 
-**[▶ Watch the greeting — 4 seconds (MP4)](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-review.mp4)** · [Open the interactive studio](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html)
+**[▶ Watch the greeting — 4 seconds (MP4)](../assets/guppi/greeting-review.mp4)** · [Open the interactive studio](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html)
 
 *Click the preview to play the exported-animation review: raise, palm-forward wave, and return to rest. This is a rendered motion review, not browser gameplay footage.*
 
@@ -30,7 +30,7 @@ The October 23 refinement softens the face, improves the uniform panel and trim,
 
 | Portrait | Rear view |
 |---|---|
-| <img src="https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/rig-portrait.webp" alt="Refinement 02 face, collar and cream uniform yoke" width="420"> | <img src="https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/rig-back.webp" alt="Refinement 02 rear uniform and long ponytail" width="420"> |
+| <img src="../assets/guppi/rig-portrait.png" alt="Refinement 02 face, collar and cream uniform yoke" width="420"> | <img src="../assets/guppi/rig-back.png" alt="Refinement 02 rear uniform and long ponytail" width="420"> |
 
 *Actual model renders show the face, uniform and hair from complementary views. These images document the current pass rather than final visual acceptance.*
 
@@ -107,6 +107,6 @@ Choose **Open stellar workspace** from a console to use its 3D map. The station 
 
 Three.js is MIT licensed. The adapted HYG v4.1 star dataset credits David Nash / Astronexus and is distributed under CC BY-SA 4.0. [Dataset and transformation notes](https://holmesnet-virt.rosypeony128.chatgpt.site/data/README.md). Runway supplied the architectural treatment; the screenshots and demonstration are Jason's project captures.
 
-GUPPI's base character is by Quaternius (CC0); custom character changes build on that foundation. [Asset notes and attribution](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/README.md). Solar System Scope / INOVE textures are used under CC BY 4.0; [per-asset provenance](https://holmesnet-virt.rosypeony128.chatgpt.site/textures/sources.json) records sources and resized derivatives. Some source colors are enhanced and terrain is fictional.
+GUPPI's base character is by Quaternius (CC0); custom character changes build on that foundation. [Asset notes and attribution](../assets/guppi/README.md). Solar System Scope / INOVE textures are used under CC BY 4.0; [per-asset provenance](https://holmesnet-virt.rosypeony128.chatgpt.site/textures/sources.json) records sources and resized derivatives. Some source colors are enhanced and terrain is fictional.
 
 The campaign companion source lives in this repository. The newer VIRT application is deployed separately; this page documents and links to that working application.
