@@ -20,6 +20,20 @@ VIRT turns this campaign into a working virtual command environment. The approve
 
 **October 23: GUPPI refinement 02 is live.** The face and uniform have a refinement pass, and the greeting now waves palm-forward, plays once and returns to rest. [Meet GUPPI](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html) · [Watch the greeting](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-review.mp4) · [Explore the textured Sol prototype](https://holmesnet-virt.rosypeony128.chatgpt.site/sol.html).
 
+### GUPPI — from approved concept to animated character
+
+| Approved Concept 03 | Current 3D refinement |
+|---|---|
+| <img src="https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/concept-03.png" alt="Approved GUPPI Concept 03 character design" width="420"> | <img src="https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/rig-front.webp" alt="GUPPI refinement 02 full-body model render" width="420"> |
+
+*Concept 03 is the design target. Refinement 02 is the working 3D model; likeness polish remains underway.*
+
+[![Watch GUPPI's corrected greeting — four-second video](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-poster.png)](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-review.mp4)
+
+**[▶ Watch the greeting — 4 seconds (MP4)](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-review.mp4)** · [Open the interactive studio](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html)
+
+*Click the preview to play the exported-animation review: raise, palm-forward wave, and return to rest. This is a rendered motion review, not browser gameplay footage.*
+
 The selected automated suite passed **30 tests**. Likeness polish, voice/lip-sync, interactive browser/GPU and phone/PC validation remain open. The app uses dated game snapshots; catalog positions do not imply live vessel tracking. [Read capabilities, limitations, credits and see the walkthrough](docs/virt-development.md).
 
 ## V0.1 companion
