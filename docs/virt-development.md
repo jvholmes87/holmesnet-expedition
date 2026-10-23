@@ -65,15 +65,15 @@ The longer-term goal is to explore similar interfaces for engineering projects, 
 
 ## Screenshots and demonstration
 
-![HolmesNet stellar atlas](https://holmesnet-virt.rosypeony128.chatgpt.site/media/stellar-atlas-2026-10-18.png)
+![HolmesNet stellar atlas](../assets/virt/stellar-atlas-2026-10-18.png)
 
 *Jason's October 18 capture of the approved Systems-map prototype: catalog positions, system selection and dated campaign records.*
 
-![HolmesNet mountain command room](https://holmesnet-virt.rosypeony128.chatgpt.site/media/command-room-2026-10-18.png)
+![HolmesNet mountain command room](../assets/virt/command-room-2026-10-18.png)
 
 *Jason's October 18 capture of the Runway-inspired room implementation. This records v0.5, before the October 19 console rollout.*
 
-**[Watch the 20-second walkthrough excerpt](https://holmesnet-virt.rosypeony128.chatgpt.site/media/virt-walkthrough-excerpt.mp4)**
+**[Watch the 20-second walkthrough excerpt](../assets/virt/virt-walkthrough-excerpt.mp4)**
 
 The excerpt shows the interactive room in the October 18 recording. It is silent and trimmed from the supplied implementation video; it is not a live feed or footage of the later rollout.
 
