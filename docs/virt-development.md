@@ -12,9 +12,27 @@ GUPPI now has an initial animated 3D model based on Quaternius's CC0 Universal B
 
 The October 23 refinement softens the face, improves the uniform panel and trim, and corrects the greeting. The hand raises with the palm forward and elbow below the shoulder, waves, and returns to rest. Sleeve-cuff weights follow the bending sleeve. Greeting playback runs once and supports replay.
 
-![GUPPI refinement 02 — actual model render](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/rig-portrait.webp)
+### GUPPI — from approved concept to animated character
 
-*Actual refinement 02 render, not the approved concept illustration. The four-second review video renders the exported animation and is not browser/GPU test footage.*
+| Approved Concept 03 | Current 3D refinement |
+|---|---|
+| <img src="https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/concept-03.png" alt="Approved GUPPI Concept 03 character design" width="420"> | <img src="https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/rig-front.webp" alt="GUPPI refinement 02 full-body model render" width="420"> |
+
+*Concept 03 is the design target. Refinement 02 is the working 3D model; likeness polish remains underway.*
+
+[![Watch GUPPI's corrected greeting — four-second video](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-poster.png)](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-review.mp4)
+
+**[▶ Watch the greeting — 4 seconds (MP4)](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/greeting-review.mp4)** · [Open the interactive studio](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html)
+
+*Click the preview to play the exported-animation review: raise, palm-forward wave, and return to rest. This is a rendered motion review, not browser gameplay footage.*
+
+### Face and uniform detail
+
+| Portrait | Rear view |
+|---|---|
+| <img src="https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/rig-portrait.webp" alt="Refinement 02 face, collar and cream uniform yoke" width="420"> | <img src="https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/rig-back.webp" alt="Refinement 02 rear uniform and long ponytail" width="420"> |
+
+*Actual model renders show the face, uniform and hair from complementary views. These images document the current pass rather than final visual acceptance.*
 
 The model contains 65 joints and four clips: Idle, Listening, Explaining and Greeting. Export validation checked finite geometry at 20 samples across the four clips, palm orientation and wrist/elbow placement during the wave, and matching start/end landmarks. The selected automated suite passed 30 tests, including one-shot greeting and replay behavior. Browser WebGL was unavailable, so interactive GPU playback and real phone/PC performance remain unverified.
 
