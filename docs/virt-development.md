@@ -1,8 +1,20 @@
 # VIRT development — From architecture to operational maps
 
-Updated October 23, 2026 · Jason Von Holmes / Songtan Labs
+Updated October 26, 2026 · Jason Von Holmes / Songtan Labs
 
 **[Enter VIRT](https://holmesnet-virt.rosypeony128.chatgpt.site/)** · **[Open the stellar workspace](https://holmesnet-virt.rosypeony128.chatgpt.site/systems.html)**
+
+## October 26 update — GUPPI material study
+
+**[Inspect GUPPI in VIRT](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html)** · **[Download the updated GLB](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/guppi-rig.glb)**
+
+A Runway-derived front view now guides Concept 03's warm complexion and tailored graphite uniform. The generated UV sheet moved facial and clothing features, so we did not wrap it wholesale around the existing mesh. Instead, the updated GLB uses a palette transfer on the original skin UV layout and an embedded, restrained graphite weave on the weighted uniform. This is a material study; face shape, hair volume, jacket tailoring and trouser geometry still need refinement. The 65-joint skeleton and Idle, Listening, Explaining and one-shot Greeting clips are unchanged.
+
+| Approved design | New material reference | Rig study before material pass |
+|---|---|---|
+| <img src="../assets/guppi/concept-03.png" alt="Approved GUPPI Concept 03" width="300"> | <img src="../assets/guppi/reference-front.webp" alt="Runway-derived full-body GUPPI material reference" width="300"> | <img src="../assets/guppi/rig-front.png" alt="Earlier 3D rig still; it does not show the new materials" width="300"> |
+
+*The middle image is 2D reference art; the right image is the previous model render. The updated material pass is in the downloadable GLB and interactive VIRT studio on WebGL-capable devices. This QA browser had no WebGL, so shaded-device appearance remains unverified.*
 
 ## October 23 update — GUPPI refinement and Sol explorer
 
