@@ -4,6 +4,20 @@ Updated October 26, 2026 · Jason Von Holmes / Songtan Labs
 
 **[Enter VIRT](https://holmesnet-virt.rosypeony128.chatgpt.site/)** · **[Open the stellar workspace](https://holmesnet-virt.rosypeony128.chatgpt.site/systems.html)**
 
+## October 26 engineering log — GUPPI geometry defects and repair
+
+**[Open the live Refinement 05 model](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi)** · **[Download its GLB](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/guppi-rig.glb)**
+
+Jason inspected Refinement 04 on a WebGL-capable phone. The screenshots below are direct device captures of the actual interactive model, not concept art. They revealed defects that geometry-integrity tests alone did not catch: exposed triangular skin beneath the collar, a protruding front trouser surface, distorted knee shape, and gaps at the trouser/boot connection. This is an example of why a valid skinned GLB is not sufficient evidence of visual quality.
+
+| Front: trouser and knee defects | Portrait: neckline gaps | Side: boot and leg join |
+|---|---|---|
+| <img src="../assets/guppi/evidence-2026-10-26-front.png" alt="Phone WebGL capture of Refinement 04 showing the front trouser and knee defects" width="250"> | <img src="../assets/guppi/evidence-2026-10-26-collar.png" alt="Phone WebGL capture showing triangular exposed skin beneath the collar" width="250"> | <img src="../assets/guppi/evidence-2026-10-26-side.png" alt="Phone WebGL side capture showing leg and boot connection" width="250"> |
+
+**Correction:** Refinement 05 extends the weighted trouser hems into the boot shafts, flares the collar's lower ring to overlap the cream yoke cutout, shifts the collar light back, and reduces the protruding front pelvic surface. The changes are applied to the exported geometry without changing skin weights, UVs, the 65-joint skeleton, or four animation clips. The production VIRT studio and downloadable GLB have been updated. The existing greeting video predates these geometry changes and is retained as motion history.
+
+**Verification:** GLB header, finite positions, accessor bounds, 65 joints, and byte-identical animation/skin JSON were checked against Refinement 04. The Site's 30 selected tests passed. **Visual outcome remains pending fresh phone screenshots**; the images above document the problem before Refinement 05, not proof that the correction looks right. The face likeness, tailoring, knee detail, and greeting deformation remain separate work.
+
 ## October 26 update — GUPPI material study
 
 **[Inspect GUPPI in VIRT](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html)** · **[Download the updated GLB](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/guppi-rig.glb)**
