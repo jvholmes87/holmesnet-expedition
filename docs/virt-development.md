@@ -18,6 +18,16 @@ Jason inspected Refinement 04 on a WebGL-capable phone. The screenshots below ar
 
 **Verification:** GLB header, finite positions, accessor bounds, 65 joints, and byte-identical animation/skin JSON were checked against Refinement 04. The Site's 30 selected tests passed. **Visual outcome remains pending fresh phone screenshots**; the images above document the problem before Refinement 05, not proof that the correction looks right. The face likeness, tailoring, knee detail, and greeting deformation remain separate work.
 
+### Refinement 05 phone review — visual rejection
+
+The next phone captures test the published Refinement 05 GLB. The collar/yoke coverage and trouser-to-boot overlap changed, but **the clothing mesh is not accepted**: a large triangular fold and dark opening remain at the front crotch; the collar retains a white slit at center; the knee silhouette still has abrupt bulges. The rear view suggests improved hem overlap, but a static screenshot does not establish deformation quality in motion. These observations supersede the initial geometry-pass assessment above.
+
+| Front clothing defect, after pass | Collar slit, after pass | Rear hems, after pass |
+|---|---|---|
+| <img src="../assets/guppi/evidence-2026-10-26-r05-crotch.png" alt="Refinement 05 phone crop: unresolved triangular trouser fold and dark crotch opening" width="250"> | <img src="../assets/guppi/evidence-2026-10-26-r05-collar.png" alt="Refinement 05 phone portrait: unresolved white center slit at the collar" width="250"> | <img src="../assets/guppi/evidence-2026-10-26-r05-back.png" alt="Refinement 05 rear phone capture: trouser hems near boots" width="250"> |
+
+**Engineering conclusion:** Position-only edits to the inherited weighted body surface are insufficient. The next pass should repair or replace the trouser crotch topology, build a closed collar/yoke connection, and review knee and boot deformation in actual motion. Keep this as an open defect; GLB integrity and 30 passing site tests did not predict shaded visual acceptance. The approved Concept 03 image also appears cropped to a narrow strip in GitHub's preview, so its repository asset/display needs inspection before it can serve as reliable comparison evidence.
+
 ## October 26 update — GUPPI material study
 
 **[Inspect GUPPI in VIRT](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html)** · **[Download the updated GLB](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/guppi-rig.glb)**
