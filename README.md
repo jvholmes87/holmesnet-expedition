@@ -18,23 +18,25 @@ VIRT turns this campaign into a working virtual command environment. The approve
 
 *The approved Systems-map prototype, captured October 18. The October 19 v0.6 rollout adds station-specific workspaces and catalog-projected room displays.*
 
-**October 23: GUPPI refinement 02 is live.** The face and uniform have a refinement pass, and the greeting now waves palm-forward, plays once and returns to rest. [Meet GUPPI](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html) · [Watch the greeting](assets/guppi/greeting-review.mp4) · [Explore the textured Sol prototype](https://holmesnet-virt.rosypeony128.chatgpt.site/sol.html).
+**October 31: GUPPI Refinement 07 is live and accepted in Jason’s Android review.** The knee and boot weights, standing collar, cuff fit, viewer lighting and portrait camera were repaired. The GLB shrank from 11.37 MB to 6.81 MB. Jason confirmed front, side, back and portrait; Idle, Listening, Explaining and Greeting (raise, two waves, return); the visible cyan collar light and bronze edge; no nose streak; cuffs over boots; and acceptable mobile-data loading. This is user acceptance, without a measured frame rate or load time. [Meet GUPPI](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html) · [R07 engineering evidence](https://github.com/jvholmes87/holmesnet-expedition/issues/1) · [Detailed progress](docs/virt-development.md).
 
 ### GUPPI — from approved concept to animated character
 
-| Approved Concept 03 | Current 3D refinement |
+| Approved Concept 03 | Refinement 07 actual model |
 |---|---|
-| <img src="assets/guppi/concept-03.png" alt="Approved GUPPI Concept 03 character design" width="420"> | <img src="assets/guppi/rig-front.png" alt="GUPPI refinement 02 full-body model render" width="420"> |
+| <img src="https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/concept-03.png" alt="Approved GUPPI Concept 03 illustration" width="420"> | <img src="https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/rig-front.webp" alt="GUPPI Refinement 07 front render of the actual 3D rig" width="420"> |
 
-*Concept 03 is the design target. Refinement 02 is the working 3D model; likeness polish remains underway.*
+*Concept 03 remains the design target. R07 is an accepted engineering pass, not a final likeness match. The repo’s older PNG and greeting MP4 below are historical Refinement 02 review media.*
 
-[![Watch GUPPI's corrected greeting — four-second video](assets/guppi/greeting-poster.png)](assets/guppi/greeting-review.mp4)
+| Knee and boot comparison | Collar comparison | WebGL lighting comparison |
+|---|---|---|
+| ![R06 versus R07 knee and boot motion](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/review/r07/cmp-legs.jpg) | ![R06 versus R07 collar](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/review/r07/cmp-collar.jpg) | ![R06 versus R07 WebGL portrait](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/review/r07/cmp-webgl.jpg) |
 
-**[▶ Watch the greeting — 4 seconds (MP4)](assets/guppi/greeting-review.mp4)** · [Open the interactive studio](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html)
+[![Watch the earlier corrected greeting — four-second exported-animation video](assets/guppi/greeting-poster.png)](assets/guppi/greeting-review.mp4)
 
-*Click the preview to play the exported-animation review: raise, palm-forward wave, and return to rest. This is a rendered motion review, not browser gameplay footage.*
+**[▶ Watch the historical Refinement 02 greeting (MP4)](assets/guppi/greeting-review.mp4)** · [Open the current interactive studio](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html)
 
-The selected automated suite passed **30 tests**. Likeness polish, voice/lip-sync, interactive browser/GPU and phone/PC validation remain open. The app uses dated game snapshots; catalog positions do not imply live vessel tracking. [Read capabilities, limitations, credits and see the walkthrough](docs/virt-development.md).
+The R07 site suite passed **31 tests**. Face and hair likeness, skin calibration, garment detail, seated hem clipping, expression and lip-sync remain open. The app uses dated game snapshots; catalog positions do not imply live vessel tracking.
 
 ## V0.1 companion
 
