@@ -1,8 +1,20 @@
 # VIRT development — From architecture to operational maps
 
-Updated October 26, 2026 · Jason Von Holmes / Songtan Labs
+Updated October 31, 2026 · Jason Von Holmes / Songtan Labs
 
 **[Enter VIRT](https://holmesnet-virt.rosypeony128.chatgpt.site/)** · **[Open the stellar workspace](https://holmesnet-virt.rosypeony128.chatgpt.site/systems.html)**
+
+## October 31 engineering log — GUPPI Refinement 07 and Android acceptance
+
+[Open the live R07 model](https://holmesnet-virt.rosypeony128.chatgpt.site/guppi.html) · [Review the defect-by-defect measurements and images](https://github.com/jvholmes87/holmesnet-expedition/issues/1#issuecomment-6537044082) · [Read the R07 asset notes](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/README.md)
+
+Refinement 06 repaired the open lower clothing shell, but pose and WebGL inspection exposed measurable defects: the trouser weight transition bent below the knee; the boots were partly driven by the opposite leg; the standing collar became a chest plate over its light; cuffs flared away from the boots; and an unshadowed back light drew a bright streak down the nose. Refinement 07 resampled the trouser weights at the actual knee, isolated each boot to its own leg, built a closed collar band and tapered cuffs, and changed the viewer lights and portrait camera. Removing unused vertex attributes reduced the GLB from 11.37 to 6.81 MB. The R07 review package has pose measurements, reimport renders, WebGL comparisons, a validation report and 31 passing site tests.
+
+| R06 → R07 leg/boot motion | R06 → R07 standing collar | R06 → R07 WebGL |
+|---|---|---|
+| ![Measured leg and boot comparison](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/review/r07/cmp-legs.jpg) | ![Collar comparison](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/review/r07/cmp-collar.jpg) | ![Viewer comparison](https://holmesnet-virt.rosypeony128.chatgpt.site/assets/guppi/review/r07/cmp-webgl.jpg) |
+
+**Jason’s Android acceptance:** He confirmed front, side, back and portrait; Idle, Listening, Explaining and Greeting with two waves and return to rest; the bronze-edged collar and visible cyan light without a chest plate; no nose streak; cuffs over boots; and acceptable mobile-data loading. This is a user observation, not a measured frame-rate or network benchmark. The R07 pass is accepted. The seated 90° pose still clips the jacket hem by up to 3.8 mm in the engineering sweep, and the face, hair, skin palette, cargo details, expression and voice remain on the path toward the Concept 03 material reference. Earlier sections below remain dated history, including the phone rejection of R05.
 
 ## October 26 engineering log — GUPPI geometry defects and repair
 
