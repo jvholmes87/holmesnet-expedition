@@ -147,7 +147,7 @@ Choose **Open stellar workspace** from a console to use its 3D map. The station 
 - System inventory is dated January 20, 2184; assignments and freight are confirmed through February 20, 2184. Historical hold cargo has its own earlier date.
 - The cinematic room is a composited still with functional overlays. The separate navigable room uses simplified geometry.
 - No live game synchronization, autonomous orders or headset validation is claimed.
-- The October 19 atlas milestone passed 29 checks; the October 23 selected suite passed 30, including greeting playback. These counts describe different milestone suites. Full browser/GPU and phone/PC testing remains open.
+- The October 19 atlas milestone passed 29 checks; the October 23 selected suite passed 30, including greeting playback. These counts describe different milestone suites. R07 passed 31 site tests and Jason accepted its Android visual and motion review on October 31; PC, VR and measured performance benchmarks remain open.
 
 ## Credits and reuse
 
